@@ -1,0 +1,3 @@
+body { background-color: #0e1117; color: #e6eef8; }
+.chat-bubble-user { background: #4a61dd; color: white; padding: 8px; border-radius: 8px; margin: 6px; }
+.chat-bubble-bot { background: #2d333b; color: white; padding: 8px; border-radius: 8px; margin: 6px; }
